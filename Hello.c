@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Olá, alunos de PPC !\n");
+	printf("Olá, Mestre Supremo do Universo !\n");
 	return 0;
 }
 	
